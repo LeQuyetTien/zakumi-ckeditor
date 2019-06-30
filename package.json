@@ -1,0 +1,19 @@
+{
+  "name": "zakumi-ckeditor",
+  "version": "1.0.0",
+  "description": "My CKEditor",
+  "main": "ckeditor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lequyettien/zakumi-ckeditor.git"
+  },
+  "author": "Le Quyet Tien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lequyettien/zakumi-ckeditor/issues"
+  },
+  "homepage": "https://github.com/lequyettien/zakumi-ckeditor#readme"
+}
